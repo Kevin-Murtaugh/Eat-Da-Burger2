@@ -1,0 +1,57 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+h1 {
+  text-align:center
+}
+h2 {
+
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  width: 250px;
+}
+
+.form-group2 {
+  margin-bottom: 5px;
+  text-align: right;
+  width: 250px;
+}
+
+.form-groupnew {
+  margin-bottom: 5px;
+  width: 250px;
+  text-align: center;
+  position: absolute;
+  
+}
